@@ -37,7 +37,7 @@ The Excel model contains the following worksheets:
 
 ### Cover Page
 
-![coverpage](CV.png)
+![coverpage](CP.png)
 
 ### Historical Data
 
