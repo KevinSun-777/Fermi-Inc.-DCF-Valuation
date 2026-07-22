@@ -51,6 +51,10 @@ The Excel model contains the following worksheets:
 
 ![forcast](OF.png)
 
+### WACC Assumption
+
+![WACC](WACC.png)
+
 ### DCF Valuation
 
 ![DCF](DCF.png)
@@ -154,20 +158,6 @@ rather than a simple Capex as a percentage of revenue.
 
 ---
 
-# WACC Assumptions
-
-| Assumption | Value |
-|------------|-------|
-| Risk-Free Rate | 4.60% |
-| Equity Risk Premium | 4.20% |
-| Levered Beta | 1.60 |
-| Cost of Equity | 11.32% |
-| Pre-tax Cost of Debt | 8.00% |
-| Tax Rate | 21.00% |
-| WACC | 10.32% |
-| Terminal Growth Rate | 2.50% |
-
----
 
 # Data Sources
 
