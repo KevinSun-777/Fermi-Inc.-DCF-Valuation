@@ -45,7 +45,7 @@ The Excel model contains the following worksheets:
 
 ### Operating Assumptions
 
-![operating](OS.png)
+![operating](OA.png)
 
 ### Operating Forecast
 
@@ -57,7 +57,7 @@ The Excel model contains the following worksheets:
 
 ### Sensitivity Analysis
 
-![Sensitivity](images/sensitivity.png)
+![Sensitivity](SA.png)
 
 
 # Valuation Methodology
